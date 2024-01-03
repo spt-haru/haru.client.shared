@@ -1,2 +1,3 @@
-# haru.client.shared
+# Haru.Client.Shared
+
 Shared code between client plugins.
