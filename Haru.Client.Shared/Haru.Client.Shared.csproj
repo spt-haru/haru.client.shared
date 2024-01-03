@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net471</TargetFramework>
+    <LangVersion>6.0</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Private="False" Include="Assembly-CSharp" HintPath="..\references\eft\Assembly-CSharp.dll" />
+  </ItemGroup>
+
+</Project>
